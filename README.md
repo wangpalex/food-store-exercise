@@ -1,6 +1,6 @@
 # Food-Store-Exercise
 
-## Deploy on Firebase
+## Deployed on Firebase
 https://test-project-51740.web.app/
 
 ## Project setup
