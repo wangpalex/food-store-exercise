@@ -1,5 +1,8 @@
 # Food-Store-Exercise
 
+## Deploy on Firebase
+https://test-project-51740.web.app/
+
 ## Project setup
 ```
 npm install
